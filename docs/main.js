@@ -30,7 +30,7 @@ webpackEmptyAsyncContext.id = "./$$_lazy_route_resource lazy recursive";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "i r app compt <br>\n\n<app-c1></app-c1>"
+module.exports = "i r app compt <br>\n\n<app-c1></app-c1>\n\n<div>update! v0.0.1</div>"
 
 /***/ }),
 
